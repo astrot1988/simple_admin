@@ -31,7 +31,7 @@ GEM
     build-environment (1.13.0)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
-    console (1.20.0)
+    console (1.21.0)
       fiber-annotation
       fiber-local
     dotenv (2.8.1)
@@ -113,7 +113,7 @@ GEM
     zeitwerk (2.6.11)
 
 PLATFORMS
-  arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   async
