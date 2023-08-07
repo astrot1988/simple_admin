@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem "rackup"
+gem "rack"
+gem "falcon"
+gem "grape"
+gem "async"
+gem "dotenv"
